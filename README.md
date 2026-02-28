@@ -1,63 +1,75 @@
-# 🚀 WEBSITE HIMSI CIKARANG
-## Universitas Bina Sarana Informatika
+# <div align="center"> 🚀 WEBSITE HIMSI CIKARANG </div>
+### <div align="center"> Universitas Bina Sarana Informatika </div>
 
-[![Website](public/logo/himsi.png)]
-
-![Progress](https://img.shields.io/badge/Progress-2%-green?logo=github)
-![Tech](https://img.shields.io/badge/Tech-Laravel-777BB4?logo=laravel)
-![Version]((https://img.shields.io/badge/Version-1.0.0-aqua?logo=laravel))
-
-
-**ONE ORGANIZATION, ONE FAMILY, ONE GOAL. GOLD!**
-
-
-> **Web Project** - terdiri dari 5 tim =
-1. BPH = Project Manager / Director
-2. Kominfo = Frontend Developer
-3. Pendidikan = System Analyst
-4. RSDM = Database Manager
-5. Litbang = Backend Developer
+<div align="center">
+  <img src="public/logo/himsi.png" alt="Logo HIMSI" width="180">
+  <br>
+  
+  ![Progress](https://img.shields.io/badge/Progress-2%25-green?style=for-the-badge&logo=github)
+  ![Tech](https://img.shields.io/badge/Tech-Laravel-777BB4?style=for-the-badge&logo=laravel)
+  ![Version](https://img.shields.io/badge/Version-1.0.0-aqua?style=for-the-badge&logo=semver)
+  
+  **"ONE ORGANIZATION, ONE FAMILY, ONE GOAL. GOLD!"**
+</div>
 
 ---
 
 ## 📋 Tentang Project
+**Web Project** ini adalah program kerja jangka panjang **HIMSI UBSI Cikarang**. Sistem ini dirancang sebagai solusi digital terintegrasi untuk memudahkan pengurus dalam mengelola organisasi secara bertahap melalui tiga pilar utama:
 
-Web Project ini adalah program kerja jangka panjang HIMSI UBSI Cikarang yang dirancang memiliki berbagai fitur secara bertahap agar memudahkan pengurus dalam mengelola organisasi dalam proses administrasi, kaderisasi maupun dokumentasi. Dengan adanya projek ini diharapkan dapat meningkatkan keterampilan anggota dalam membangun aplikasi web laravel sekaligus meningkatkan branding HIMSI UBSI CIKARANG.
+* **📦 Administrasi:** Digitalisasi proses administrasi dan persuratan.
+* **👥 Kaderisasi:** Manajemen data anggota dan pengembangan SDM.
+* **📸 Dokumentasi:** Pengarsipan kegiatan dan publikasi informasi.
 
-### 🛠️ Tech Stack
-- **Backend:** Laravel / ... 
-- **Database:** MySQL / ...
-- **Frontend:** Bootstrap 5 / Tailwind / ...
-
-> 💡 **Catatan:** 
-> - Direkomendasikan pakai ** + MySQL + Bootstrap 5**
-> - Lihat folder `teams/tim-contoh/` untuk referensi kode
-> - **TIDAK PERLU HOSTING!** Cukup jalankan di localhost
+Projek ini bertujuan meningkatkan keterampilan anggota dalam membangun aplikasi web berbasis **Laravel** sekaligus meningkatkan **branding digital** HIMSI UBSI Cikarang.
 
 ---
 
-## 📚 Dokumentasi
-(Coming Soon)
+## 👥 Struktur Tim & Peran
+Kolaborasi proyek ini dibagi menjadi 5 tim inti dengan tanggung jawab spesifik:
+
+| Tim | Peran | Deskripsi Tugas |
+| :--- | :--- | :--- |
+| **BPH** | **Project Manager** | Pengendali proyek, pengawas timeline, dan pengambil keputusan. |
+| **Pendidikan** | **System Analyst** | Penanggung jawab *User Requirement* dan logika alur fitur. |
+| **RSDM** | **Database Manager** | Arsitek basis data, manajemen tabel, dan relasi data. |
+| **Litbang** | **Backend Developer** | Pengembangan logika sisi server, API, dan performa Laravel. |
+| **Kominfo** | **Frontend Developer** | Implementasi desain antarmuka (UI/UX) yang responsif. |
+
 ---
 
-## 🚀 Cara Mulai (untuk Pemula GitHub)
-(Coming Soon)
+## 🛠️ Tech Stack
+Teknologi yang digunakan dalam pengembangan:
+
+* **Backend:** Laravel (PHP)
+* **Database:** MySQL
+* **Frontend:** Bootstrap 5 / Tailwind CSS
+* **Version Control:** Git & GitHub
+
+> [!IMPORTANT]
+> **Catatan Pengembangan:**
+> * Diharapkan menggunakan kombinasi **Laravel + MySQL + Bootstrap 5**.
+> * Lihat folder `teams/tim-contoh/` untuk referensi standarisasi kode.
+> * **TIDAK PERLU HOSTING!** Pengembangan dilakukan sepenuhnya di lingkungan localhost.
+
+---
+
+## 📅 Timeline Proyek
+
+| Tanggal | Kegiatan | Status |
+| :--- | :--- | :--- |
+| **31 Jan 2026** | Pembagian Tugas Setiap Tim | ✅ Selesai |
+| **Coming Soon** | Analisis Kebutuhan & Desain Database | 🔄 In Progress |
+| **Coming Soon** | Tahap Development MVP | ⏳ Planned |
+
 ---
 
 ## 📞 Person in Charge (PIC)
 
-| PIC | Tim | Kontak |
-|-----|-----|--------|
-
-
----
-
-## 📅 Timeline
-
-| Tanggal | Kegiatan |
-|---------|----------|
-| **31 Jan 2026** | Pembagian Tugas Setiap Tim |
-| **Coming Soon** | Coming Soon |
+| PIC | Tim | Kontak / GitHub |
+| :--- | :--- | :--- |
+| **[Nama PIC]** | BPH | [@username](https://github.com/) |
+| **[Nama PIC]** | Pendidikan | [@username](https://github.com/) |
 
 ---
 
@@ -65,9 +77,9 @@ Web Project ini adalah program kerja jangka panjang HIMSI UBSI Cikarang yang dir
 
 **🌟 Happy Coding! 🌟**
 
-Dibuat dengan ❤️ oleh HIMSI UBSI Cikarang
-Himpunan Mahasiswa Sistem Informasi
+Dibuat dengan ❤️ oleh **HIMSI UBSI Cikarang**
+*Himpunan Mahasiswa Sistem Informasi*
 
-2026
+**2026**
 
 </div>
